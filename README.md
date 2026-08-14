@@ -1,4 +1,4 @@
-# 💫 About Me:
+## About Me:
 Flutter Developer & Software Engineering student focused on building scalable, modern mobile applications. I work with Flutter, Dart, Firebase, REST APIs, Riverpod, BLoC, and Clean Architecture, while exploring backend development with Spring Boot.
 
 
